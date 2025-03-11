@@ -1,4 +1,4 @@
-Certainly! Here are 50 real-time Jenkins Declarative Pipeline scripts that cover a wide range of use cases and scenarios. Each script is tailored to perform specific tasks that are commonly encountered in CI/CD pipelines.
+Here are 50 real-time Jenkins Declarative Pipeline scripts that cover a wide range of use cases and scenarios. Each script is tailored to perform specific tasks that are commonly encountered in CI/CD pipelines.
 
 ### Basic Pipelines
 
