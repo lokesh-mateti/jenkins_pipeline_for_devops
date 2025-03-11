@@ -1,4 +1,3 @@
-Certainly! Here are some interview questions focusing on Jenkins Declarative Pipelines. These questions cover various aspects, from basic understanding to more advanced usage scenarios.
 
 ### Basic Questions
 1. **What is Jenkins Declarative Pipeline?**
